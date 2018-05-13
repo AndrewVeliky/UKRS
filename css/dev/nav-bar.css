@@ -1,0 +1,27 @@
+.nav-wrapper{
+	background-color: black;
+	padding-left: 3%; 
+}
+
+.brand-logo{
+	font-weight: bold;
+}
+
+.nav-wrapper a{
+	background-color: black; 
+	font-size: 1.25em;
+}
+
+.nav-wrapper a:hover{
+	color: #ff7b00;
+	text-decoration: none;
+}
+
+#stock img {
+	width: 100%;
+}
+
+.why-img{
+	margin-top: 5%;
+	width: 65%;
+}
